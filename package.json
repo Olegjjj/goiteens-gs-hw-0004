@@ -1,0 +1,14 @@
+{
+  "name": "goiteens-js-hw-004",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "author": "Oleg",
+  "license": "ISC",
+  "description": "This is a homework",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
